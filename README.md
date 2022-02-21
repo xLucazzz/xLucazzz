@@ -1,7 +1,7 @@
 ## Olá 👋, me chamo [xLucazzz](https://github.com/xLucazzz-projects/)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/xLucazzzOficial)
-[![Discord Badge](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/stAeSXyWyW)
+[![Discord Badge](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/stAeSXyWyW)
 
 
 
