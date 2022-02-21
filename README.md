@@ -1,4 +1,4 @@
-## Olá 👋, Me chamo [xLucazzz](https://github.com/xLucazzz-projects/)
+## Olá 👋, me chamo [xLucazzz](https://github.com/xLucazzz-projects/)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/xLucazzzOficial)
 [![Discord Badge](https://img.shields.io/badge/-Discord-0088cc?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/stAeSXyWyW)
