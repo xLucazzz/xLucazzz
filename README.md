@@ -9,7 +9,7 @@
 
 - 🛠 &nbsp; Atualmente estou trabalhando com NodeJS, Lua e JavaScript.
 - 👨🏻‍💻 &nbsp; Diversos projetos meus estão disponíveis no meu [Github](https://github.com/xLucazzz).
-- 📫 &nbsp; Para entrar em contato: xLucazzz#0001 no Discord
+- 📫 &nbsp; Para entrar em contato: @xLucazzz no Discord
 
 ### Linguagens de Programação:
 
@@ -30,5 +30,5 @@
 <details> 
   <summary><b>☄️ Github Streaks</b></summary>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tevichu&hide_border=true&theme=radical" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xLucazzz&hide_border=true&theme=radical" />
 </details>
