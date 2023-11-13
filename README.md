@@ -7,15 +7,16 @@
 
 ### Um pouco sobre mim:
 
-- 🛠 &nbsp; Atualmente estou trabalhando com NodeJS, Lua e JavaScript.
+- 🛠 &nbsp; Atualmente estou trabalhando com Javascript, NodeJS, Typescript e Lua .
 - 👨🏻‍💻 &nbsp; Diversos projetos meus estão disponíveis no meu [Github](https://github.com/xLucazzz).
 - 📫 &nbsp; Para entrar em contato: @xLucazzz no Discord
 
 ### Linguagens de Programação:
 
-[![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-[![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/)
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+[![Typescript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)](https://www.typescriptlang.org/)
+[![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/)
 
 
 ### Projetos:
