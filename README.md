@@ -7,7 +7,7 @@
 
 ### Um pouco sobre mim:
 
-- 🛠 &nbsp; Atualmente estou trabalhando com Javascript, NodeJS, Typescript e Lua .
+- 🛠 &nbsp; Atualmente estou trabalhando com Javascript, NodeJS, Typescript e Lua.
 - 👨🏻‍💻 &nbsp; Diversos projetos meus estão disponíveis no meu [Github](https://github.com/xLucazzz).
 - 📫 &nbsp; Para entrar em contato: @xLucazzz no Discord
 
