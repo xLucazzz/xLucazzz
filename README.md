@@ -1,10 +1,5 @@
 ## Olá 👋, me chamo [Lucas Nunes](https://github.com/xLucazzz/)
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/xLucazzzOficial)
-[![Discord Badge](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/7KWJjWXpuk)
-
-
-
 ### Um pouco sobre mim:
 
 - 🛠 &nbsp; Atualmente estou trabalhando com Javascript, NodeJS, Typescript e Lua.
@@ -17,9 +12,6 @@
 [![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![Typescript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)](https://www.typescriptlang.org/)
 [![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/)
-
-
-### Projetos:
 
 <details> 
   <summary><b>⚡ Github Stats</b></summary>
