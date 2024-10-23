@@ -3,7 +3,7 @@
 ### Um pouco sobre mim:
 
 - 🛠 &nbsp; Atualmente estou trabalhando com Javascript, NodeJS, Typescript e Lua.
-- 👨🏻‍💻 &nbsp; Diversos projetos meus estão disponíveis no meu [Github](https://github.com/xLucazzz).
+- 👨🏻‍💻 &nbsp; Diversos projetos meus estão disponíveis no meu [Github](https://github.com/xLucazzz?tab=repositories).
 - 📫 &nbsp; Para entrar em contato: @xLucazzz no Discord
 
 ### Linguagens de Programação:
